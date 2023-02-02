@@ -1,0 +1,26 @@
+#password-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #password {
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+  }
+  
+  #generate-button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  
